@@ -1,4 +1,4 @@
-# Inbox Wizard: A Macro & Custom Excel Tables to Automate Inbox Management
+# Inbox Wizard: A Macro to Automate Outlook Inbox Management
 
 ## Purpose
 
