@@ -26,7 +26,7 @@ really their fund administrators) are way
 behind in terms of reporting, so they did not provide information electronically.
 Instead, it was provided in a PDF statement attached to an email.
 
-We also received lots of additional emails that we didn't include statements we
+We also received lots of additional emails that didn't include statements we
 needed to save, but did need to be filed away in the appropriate
 inbox subfolder for later reference. This included email updates like quarterly
 reports, estimated performance, timing expectations for tax documents, and various
