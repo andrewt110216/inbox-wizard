@@ -49,7 +49,7 @@ The macro scans the inbox, searching for recognized senders and emails. If we ha
 taught it what to do with an email, it will do it...in the blink of an eye.
 The macro parses information found in the email subject, body, and attachment names,
 and cross-references these data points against the Excel data tables to lookup what
-actions to take: a) file the email direclty into a subfolder, b) save an attachment
+actions to take: a) file the email directly into a subfolder, b) save an attachment
 and then file the email, or c) leave it in the inbox for a human to look at.
 The data tables provide a user-friendly way to pass knowledge to the macro. In the
 data tables, you can:
