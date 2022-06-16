@@ -86,9 +86,9 @@ take a person 5 seconds to identify and file.
 Over the course of a year, that's a **day and a half** back. That may not seem like
 much, but it was in use for more than 4 years, and was well worth it to me.
 I mostly did this for fun on my own time (I literally stayed in my room for about 30
-hours straight, while my roommates were partying, with a textbook on Visual Basic
-that I rented from the Chicago Public Library). I guess I should've known at that time that I
-was destined to be a software engineer rather than a financial advisor, but it 
+hours straight, with a textbook on Visual Basic that I rented from the Chicago Public
+Library, while my roommates were partying). I guess I should've known at that time that
+I was destined to be a software engineer rather than a financial advisor, but it 
 would be a full 5 more years before I realized that...oh well! No regerts.
 
 If you take a look at the code, keep in mind that this was really my first large
